@@ -2,7 +2,11 @@
 
 Note: The app.config file is intentionally included in the repository for demonstration purposes. In a production environment, sensitive connection details should be secured properly.
 
+![Product Screenshot](Product.png)
+
 A simple product management system built with WinForms and C# that allows users to manage inventory, track products, and handle basic database operations through a user-friendly interface.
+
+![Add Product Screenshot](AddProduct.png)
 
 # Features
 
